@@ -1,8 +1,8 @@
 <?php
 //DATABASE CONNECTION VARIABLES
 $host = "localhost"; // Host name
-$username = "seclogin"; // Mysql username
-$password = "M4tth!4SrUl3s#"; // Mysql password
+$username = "MyLoginname"; // Mysql username
+$password = "MyPW12345"; // Mysql password
 $db_name = "cv"; // Database name
 
 //DO NOT CHANGE BELOW THIS LINE UNLESS YOU CHANGE THE NAMES OF THE MEMBERS AND LOGINATTEMPTS TABLES
